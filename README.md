@@ -1,4 +1,4 @@
-# Project Title
+# Fix SCC Outpost Installation Such that it Installs on a Standard User Account
 
 SCCoOutpost is normally installed in "Program Files (x86)" however in order to do that the user must be an Administrator.  Some laptops in our served agencies are configured to only allow a Standard User Account (SUA) to be used by the ham radio operators.
 
