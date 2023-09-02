@@ -54,6 +54,7 @@ This application is not installed.  The SCCoFix.exe file is copied to C:\SCCPack
 ## Authors
 
 SCCoFix.exe -- Robert R. Van Tuyl
+
 SCCoOutpost -- Jim Oberhofer, KN6PE, and others
 
 Contact:  romeo romeo victor tango alpha tango sam whisky delta echo dot charlie oscar mike
