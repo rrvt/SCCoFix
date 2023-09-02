@@ -8,6 +8,8 @@ This application is used after a version of Outpost to correct some of the confi
   - C:\SCCPacke\PacFORMS\    -- Old Forms directory, still loaded
   - C:\SCCPacke\PackItForms\ -- New Forms directory
 
+This is not a polished or finished application.  It is intended to show a capability.
+
 ## Getting Started
 
 This version was created with Visual Studion 2022 (VS22).  It was compiled with the following properties:
