@@ -43,7 +43,7 @@ This application is not installed.  The SCCoFix.exe file is copied to C:\SCCPack
   - Copy Manifest.txt to C:\SCCPacket\
   - Execute C:\SCCPacket\SCCoFix.exe
   - Note that C:\SCCPacket\SCCoFix.ini has been created.  If the previous step needs to be repeated SCCoFix.ini must be deleted before running SCCoFix.exe
-  - Using Directory Opus Pro Edition from TGP Software create an Archive file after highlighting all directories and files in the C:\SCCPacket\ directory.
+  - Using Directory Opus Pro Edition from GP Software create an Archive file after highlighting all directories and files in the C:\SCCPacket\ directory.
     * In the first dialog box name the resulting archive SCCPacket and select the "Make self-extracting archive" check box.
     * In the second dialog box:
       - Set Name to SCCPacket
