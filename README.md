@@ -34,8 +34,8 @@ The "HTML Help Workshop" (google it) must be installed on the PC.
 
 This application is not installed.  The SCCoFix.exe file is copied to C:\SCCPacket\ directory.  Assisting the creation of a SUA installer for Outpost is the goal of this application.  Here are the steps to create and SUA installation application for SCC Outpost:
 
-  -o Uninstall SCC Outpost and delete any remaining copies of Outpost and Forms from the C drive.
-  -o Using a Administrator User Account (AUA) install the latest version of the Hospital SCC Outpost with the options:
+  - Uninstall SCC Outpost and delete any remaining copies of Outpost and Forms from the C drive.
+  - Using a Administrator User Account (AUA) install the latest version of the Hospital SCC Outpost with the options:
     * Direct the Executable Files to C:\SCCPacket\bin\
     * Direct the Data Files to C:\SCCPacket\data\
   - Copy the Forms directories to C:\SCCPacket\
