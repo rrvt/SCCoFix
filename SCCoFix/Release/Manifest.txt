@@ -1,0 +1,1 @@
+Install all Outpost files to C:\SCCPacket\.  This is required due to messages being stored in SCCPacket\msg.d\ regardless of configuration file information.
